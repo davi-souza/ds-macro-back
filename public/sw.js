@@ -9,9 +9,9 @@ var filesToCache = [
   '/js/app.08962f8b.js.map',
   '/js/chunk-vendors.0503b410.js',
   '/js/chunk-vendors.0503b410.js.map',
-  'http://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons',
-  'http://fonts.gstatic.com/s/materialicons/v38/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2',
-  'http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2',
+  'https://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons',
+  'https://fonts.gstatic.com/s/materialicons/v38/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2',
+  'https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2',
   '/favicon.ico',
 ];
 
