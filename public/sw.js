@@ -1,5 +1,7 @@
-var cacheName = 'ds-macro-cache-name-v-6';
+var cacheName = 'ds-macro-cache-name-v-7';
 var filesToCache = [
+  '/manifest.json',
+  '/browserconfig.xml',
   '/index.html',
   '/',
   '/macro/add',
