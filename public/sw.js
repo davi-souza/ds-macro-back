@@ -1,4 +1,4 @@
-var cacheName = 'ds-macro-cache-name-v-3';
+var cacheName = 'ds-macro-cache-name-v-6';
 var filesToCache = [
   '/index.html',
   '/',
@@ -12,7 +12,31 @@ var filesToCache = [
   'https://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons',
   'https://fonts.gstatic.com/s/materialicons/v38/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2',
   'https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2',
-  '/favicon.ico',
+  '/img/icons/android-icon-144x144.png',
+  '/img/icons/android-icon-192x192.png',
+  '/img/icons/android-icon-36x36.png',
+  '/img/icons/android-icon-48x48.png',
+  '/img/icons/android-icon-512x512.png',
+  '/img/icons/android-icon-72x72.png',
+  '/img/icons/android-icon-96x96.png',
+  '/img/icons/apple-icon-114x114.png',
+  '/img/icons/apple-icon-120x120.png',
+  '/img/icons/apple-icon-144x144.png',
+  '/img/icons/apple-icon-152x152.png',
+  '/img/icons/apple-icon-180x180.png',
+  '/img/icons/apple-icon-57x57.png',
+  '/img/icons/apple-icon-60x60.png',
+  '/img/icons/apple-icon-72x72.png',
+  '/img/icons/apple-icon-76x76.png',
+  '/img/icons/apple-icon.png',
+  '/img/icons/favicon-16x16.png',
+  '/img/icons/favicon-32x32.png',
+  '/img/icons/favicon-96x96.png',
+  '/img/icons/favicon.ico',
+  '/img/icons/ms-icon-144x144.png',
+  '/img/icons/ms-icon-150x150.png',
+  '/img/icons/ms-icon-310x310.png',
+  '/img/icons/ms-icon-70x70.png',
 ];
 
 self.addEventListener('install',async (e) => {
