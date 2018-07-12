@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
+    "install-git": "apk add --no-cache git",
     "git-init": "git config --global user.email \"daviduartealvesdesouza@gmail.com\" && git config --global user.name \"Davi Souza\"",
     "heroku-login": "heroku login",
     "heroku-init": "heroku git:remote -a ds-macro"
