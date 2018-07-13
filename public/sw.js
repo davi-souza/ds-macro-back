@@ -1,14 +1,14 @@
-var cacheName = 'ds-macro-cache-name-v-8';
+var cacheName = 'ds-macro-cache-name-v-9';
 var filesToCache = [
   '/manifest.json',
   '/browserconfig.xml',
   '/index.html',
   '/',
   '/macro/add',
-  '/css/app.48ba6a45.css',
+  '/css/app.7f2f3533.css',
   '/css/chunk-vendors.c24fed64.css',
-  '/js/app.08962f8b.js',
-  '/js/app.08962f8b.js.map',
+  '/js/app.10474c9e.js',
+  '/js/app.10474c9e.js.map',
   '/js/chunk-vendors.0503b410.js',
   '/js/chunk-vendors.0503b410.js.map',
   'https://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons',
