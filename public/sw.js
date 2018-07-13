@@ -1,11 +1,11 @@
-var cacheName = 'ds-macro-cache-name-v-10';
+var cacheName = 'ds-macro-cache-name-v-11';
 var filesToCache = [
   '/manifest.json',
   '/browserconfig.xml',
   '/index.html',
   '/',
   '/macro/add',
-  '/tempate/add',
+  '/template/add',
   '/css/app.7f2f3533.css',
   '/css/chunk-vendors.c24fed64.css',
   '/js/app.10474c9e.js',
